@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Ms+Madi&family=Patua+One&family=Roboto+Slab:wght@100&family=Satisfy&family=Tapestry&family=Updock&display=swap');
+.col-lg-4{background-color:gainsboro;}
+
+.col-lg-8{
+    background-color:white;
+}
+img{
+    
+    width:150px;
+    height: 150px;
+    margin-left: 80px;
+    border: 5px solid aliceblue;
+}
+#m1{font-family: 'Patua One', cursive;
+    text-align: center;
+    margin-top: 40px;
+}
+#n1{
+    font-family: 'Patua One', cursive;
+    margin-top: 30px;
+    text-align:center;
+    font-size: 300px;
+    background-color: gainsboro;
+}
+
+#m2{font-family: 'Patua One', cursive;
+    margin-top: 30px;
+    
+}
+#m3{
+    margin-left: 60px;
+    text-indent: 17px;
+}
+i{
+    font-weight: 400;
+}
+#m5{text-align: justify;
+border: 2px grey solid;
+}
+hr{
+    color: white;
+}

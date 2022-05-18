@@ -1,0 +1,70 @@
+#m1{
+    padding-top: 4px;
+    background-color: rgb(228, 228, 13);
+}
+#w5{
+    height: 600px;   
+    width: 600px;
+}
+#w4{
+    height: 300px;
+}
+.card-image-top{
+    height: 337px;
+}
+#b1:hover{
+    background-color: white;
+    color: blue;
+}
+
+p{
+    color: crimson;
+    font-size: large;
+}
+span{
+    color:green;
+    font-weight: bolder;
+}
+#w1{
+    color: red;
+    font-weight: bolder;
+    text-shadow: 2px 1px;
+}
+.modal-body{
+    text-align: center;
+}
+input{
+    border-style:hidden;
+    
+}
+.modal-title{
+    margin-left: 193px;
+}
+#w2{
+    color: red;  
+}
+#w3{
+    position:fixed;
+    background-color: aliceblue;
+    width: 100%;  
+}
+#cd{
+    background-color: transparent;
+}
+#w3:hover{background-color: antiquewhite;
+    color:bisque
+
+}
+.card:hover{
+    box-shadow: 10px 5px grey;
+    height: ;
+}
+#i1{
+    height: 150px;
+    width: 150px;
+    margin-left: 150px;
+}
+.a{
+    text-align: center;
+}
+
